@@ -1,0 +1,1 @@
+ C:\\Users\\Ryzen\\StudioProjects\\k_sul2\\k_sul\\.dart_tool\\flutter_build\\653dc2d36b43f51438f50854aa852181\\native_assets.json: 

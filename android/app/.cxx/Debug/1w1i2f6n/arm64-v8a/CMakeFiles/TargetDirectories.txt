@@ -1,0 +1,2 @@
+C:/Users/Ryzen/StudioProjects/k_sul2/k_sul/android/app/.cxx/Debug/1w1i2f6n/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Ryzen/StudioProjects/k_sul2/k_sul/android/app/.cxx/Debug/1w1i2f6n/arm64-v8a/CMakeFiles/rebuild_cache.dir
